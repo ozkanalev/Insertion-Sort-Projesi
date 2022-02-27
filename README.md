@@ -1,4 +1,4 @@
-# Insertion-Sort-   
+# Insertion-Sort-Projesi   
 [22,27,16,2,18,6] Insertion sort aşamaları      
 
 [2,27,16,22,18,6]
